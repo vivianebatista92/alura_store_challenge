@@ -14,7 +14,7 @@ Avaliar o desempenho das quatro lojas da empresa com base em três indicadores-c
 - **Avaliação Média dos Clientes**
 - **Frete Médio**
 
-E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser considerada para **desinvestimento (venda)**.
+E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser considerada para **venda**.
 
 ---
 
