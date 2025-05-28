@@ -16,6 +16,7 @@ Avaliar o desempenho das quatro lojas da empresa com base em três indicadores-c
 
 E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser considerada para **desinvestimento (venda)**.
 
+---
 
 ## 📂 Bases de Dados
 
@@ -24,6 +25,8 @@ E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser
 ## 🔧 Ferramenta e Linguagem
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
 
 ## ✏️ Atividades Realizadas
 
@@ -35,6 +38,8 @@ E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser
  | <li> Criação das métricas </li>|
  | <li> Criação dos gráficos </li>|
  | <li> Criação do relatório </li>|
+
+---
  
  ## 📈 Métricas Realizadas
 
@@ -46,6 +51,8 @@ E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser
  | <li> Produtos mais vendidos </li>|
  | <li> Produtos menos vendidos </li>|
  | <li> Custo médio do frete </li>|
+
+---
 
  ## 📊 Resumo dos Indicadores por Loja
 
