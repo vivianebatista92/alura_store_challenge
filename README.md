@@ -47,7 +47,7 @@ E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser
  | <li> Produtos menos vendidos </li>|
  | <li> Custo médio do frete </li>|
 
- ### 📊 Resumo dos Indicadores por Loja
+ ## 📊 Resumo dos Indicadores por Loja
 
 | Critério        | Loja 1           | Loja 2           | Loja 3           | Loja 4           |
 |-----------------|------------------|------------------|------------------|------------------|
@@ -57,7 +57,7 @@ E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser
 
 ---
 
-### 🧠 Análise Técnica
+## 🧠 Análise Técnica
 
 #### 📌 Faturamento
 - A **Loja 4** tem o menor faturamento, com uma diferença de aproximadamente **R$ 150 mil a menos que a Loja 1**.
@@ -70,7 +70,7 @@ E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser
 
 ---
 
-### ⚖️ Balanço Estratégico
+## ⚖️ Balanço Estratégico
 
 | Loja     | Pontos Fortes                    | Pontos Fracos                       |
 |----------|----------------------------------|-------------------------------------|
@@ -81,9 +81,9 @@ E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser
 
 ---
 
-### ✅ Conclusão e Recomendação
+## ✅ Conclusão e Recomendação
 
-💡 **Recomendação Final**: **Vender a Loja 4**
+**Recomendação Final**: **Vender a Loja 4**
 
 - A Loja 4 apresenta **menor retorno financeiro**.
 - **Não lidera em nenhum critério estratégico** de forma isolada.
