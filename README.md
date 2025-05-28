@@ -36,8 +36,8 @@ E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser
  | <li> União das lojas para melhor análise </li>|
  | <li> Entendendo todos os dados </li>|
  | <li> Criação das métricas </li>|
- | <li> Criação dos gráficos </li>|
- | <li> Criação do relatório </li>|
+ | <li> Análise por gráficos </li>|
+ | <li> Estruturação do relatório </li>|
 
 ---
  
