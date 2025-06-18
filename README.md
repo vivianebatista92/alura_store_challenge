@@ -100,3 +100,9 @@ E com isso, indicar qual loja apresenta menor viabilidade operacional e deve ser
 - O **frete mais barato não compensa o desempenho mediano em avaliação e fraco em faturamento**.
 
 ---
+#
+
+<p align="center">
+<img 
+    src="src/projetos_banner.gif"
+    >
